@@ -40,3 +40,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungjunLee98&layout=compact)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=klsj9810)](https://solved.ac/profile/klsj9810)
+
+### Follow me
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
